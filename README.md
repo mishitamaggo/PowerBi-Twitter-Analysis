@@ -32,7 +32,7 @@ INTERNSHIP PROJECT REPORT.pdf
 
 # Dashboard Preview
 
-
+https://github.com/mishitamaggo/PowerBi-Twitter-Analysis/blob/main/PowerBi_Dashboard.png
 
 # How to Run
 
