@@ -14,15 +14,15 @@ Twitter-Dashboard-Project/
 
 # Features
 
-Time-based Filters: Hour-specific conditional views.
-Click-Based Interaction Analytics: URL/profile/hashtag click insights.
-Media vs Non-Media Analysis: Comparison of engagement.
-Data Cleaning & Transformation: Tailored using Power Query.
+1. Time-based Filters: Hour-specific conditional views.
+2. Click-Based Interaction Analytics: URL/profile/hashtag click insights.
+3. Media vs Non-Media Analysis: Comparison of engagement.
+4. Data Cleaning & Transformation: Tailored using Power Query.
 
 # Tools Used
 
-Power BI Desktop – for data modeling and visualization
-CSV – for raw data
+1. Power BI Desktop – for data modeling and visualization
+2. CSV – for raw data
 
 # Files Included
 
