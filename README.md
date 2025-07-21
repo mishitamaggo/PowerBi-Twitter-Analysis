@@ -7,7 +7,7 @@ This project presents a comprehensive Twitter analytics dashboard built using Po
 Twitter-Dashboard-Project/
 ├── Twitter_Analysis_PowerBi.pbit.pbix
 ├── tweet_analytics_data.csv
-├── INTERNSHIP PROJECT REPORT.pdf
+├── PROJECT REPORT.pdf
 ├── /public
 │ ├── dashboard_screenshot1.png
 └── README.md
@@ -28,7 +28,7 @@ Twitter-Dashboard-Project/
 
 Twitter_Analysis_PowerBi.pbit.pbix
 tweet_analytics_data.csv
-INTERNSHIP PROJECT REPORT.pdf
+PROJECT REPORT.pdf
 
 # Dashboard Preview
 
