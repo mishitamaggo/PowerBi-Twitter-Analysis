@@ -1,13 +1,12 @@
 # Twitter Analytics Dashboard with Power BI
 
-This project presents a comprehensive Twitter analytics dashboard built using Power BI Desktop. It includes a detailed analysis of tweet engagement, media impact, click interactions, and time-based insights using a custom Twitter dataset. The project also includes a detailed report explaining the methodology, findings, and visual design.
+This project presents a comprehensive Twitter analytics dashboard built using Power BI Desktop. It includes a detailed analysis of tweet engagement, media impact, click interactions, and time-based insights using a custom Twitter dataset.
 
 # Project Structure
 
 Twitter-Dashboard-Project/
 ├── Twitter_Analysis_PowerBi.pbit.pbix
 ├── tweet_analytics_data.csv
-├── PROJECT REPORT.pdf
 ├── /public
 │ ├── dashboard_screenshot1.png
 └── README.md
@@ -28,7 +27,6 @@ Twitter-Dashboard-Project/
 
 Twitter_Analysis_PowerBi.pbit.pbix
 tweet_analytics_data.csv
-PROJECT REPORT.pdf
 
 # Dashboard Preview
 
